@@ -6,7 +6,7 @@
 
 ### Blogs posts
 
-[harryuan65.github.io](https://harryuan65.github.io)
+[https://haoworld.dev/](https://haoworld.dev/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
