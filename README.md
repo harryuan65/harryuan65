@@ -6,7 +6,7 @@
 
 ### Blogs posts
 
-[https://haoworld.dev/](https://haoworld.dev/)
+[haoworld.dev](https://haoworld.dev)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
