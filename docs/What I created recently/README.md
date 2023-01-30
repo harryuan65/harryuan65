@@ -1,5 +1,5 @@
 Hello there!
-Here are the following repositories/projects I am working on recently:
+The repositories/projects I am working on recently are as follows:
 
 - [ZunaTW](https://zuna.tw/)
   This project was built by me and a friend. It is an anonymous dormitory review platform which aims to assist students to get more information about the neighboring dormitories. It has collected 200+ organic user reviews.
