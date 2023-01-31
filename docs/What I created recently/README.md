@@ -5,7 +5,7 @@ The repositories/projects I am working on recently are as follows:
 
     <img width="948" alt="截圖 2023-01-31 上午8 34 29" src="https://user-images.githubusercontent.com/33657734/215630592-52fecff2-324a-48e6-9355-446afbc39815.png">
 
-    This project was built by me and a friend. It is an anonymous dormitory review platform which aims to assist students to get more information about the neighboring dormitories. It has collected 200+ organic user reviews.
+    This project was built by me and a friend. It is an anonymous dormitory review platform which aims to assist students in National Taipei University (our alma mater) to get more information about the neighboring dormitories. It has collected 200+ organic user reviews.
 
 - [Blog](https://haoworld.dev)
 
@@ -17,7 +17,6 @@ The repositories/projects I am working on recently are as follows:
     
     <img width="1172" alt="ch1" src="https://user-images.githubusercontent.com/33657734/215634022-a216910c-6564-4187-aaf8-b4d6fddad6f7.png">
     I created this repo half a year ago just to try out Turbo Stream in Rails 7. I recently added stripe integration to it.
-
 
 - [To-do-Lists](https://github.com/harryuan65/To-do-Lists)
     [React example](https://harryuan65.github.io/to-do-list-react/)
