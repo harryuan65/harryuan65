@@ -1,4 +1,5 @@
-Hello there!
+# Hello there!
+
 The repositories/projects I am working on recently are as follows:
 
 - [ZunaTW](https://zuna.tw/)
@@ -16,8 +17,12 @@ The repositories/projects I am working on recently are as follows:
 - [CoffeeHouse](https://github.com/harryuan65/CoffeeHouse)
     
     <img width="1172" alt="ch1" src="https://user-images.githubusercontent.com/33657734/215634022-a216910c-6564-4187-aaf8-b4d6fddad6f7.png">
+    
     I created this repo half a year ago just to try out Turbo Stream in Rails 7. I recently added stripe integration to it.
 
 - [To-do-Lists](https://github.com/harryuan65/To-do-Lists)
+
     [React example](https://harryuan65.github.io/to-do-list-react/)
+    <img width="823" alt="todo" src="https://user-images.githubusercontent.com/33657734/215636440-26998f68-2630-4b7f-a491-0183143d77ff.png">
+
     I want to practice and try out technologies by creating the same a to-do list. All implementations should follow the same specification in this repo. It currently has rails, express for backend, and react for frontend.
