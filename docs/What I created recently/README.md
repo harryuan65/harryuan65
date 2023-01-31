@@ -7,6 +7,8 @@ The repositories/projects I am working on recently are as follows:
     <img width="948" alt="截圖 2023-01-31 上午8 34 29" src="https://user-images.githubusercontent.com/33657734/215630592-52fecff2-324a-48e6-9355-446afbc39815.png">
 
     This project was built by me and a friend. It is an anonymous dormitory review platform which aims to assist students in National Taipei University (our alma mater) to get more information about the neighboring dormitories. It has collected 200+ organic user reviews.
+    
+    I implemented the back end with Rails API and previously deployed on Heroku. Since its free tier has ended, and I couldn't find a proper way to pg_restore on Flyio, I decided to deploy it on a Linode instance using Capistrano (as a practice as well).
 
 - [Blog](https://haoworld.dev)
 
