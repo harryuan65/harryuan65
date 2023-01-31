@@ -22,8 +22,6 @@ The repositories/projects I am working on recently are as follows:
     
     I created this repo half a year ago just to try out Turbo Stream in Rails 7. I recently added stripe integration to it.
 
-    <img width="924" alt="截圖 2023-01-31 上午8 55 12" src="https://user-images.githubusercontent.com/33657734/215640030-fb10b8bb-9be8-429c-87e7-fdaf23b38664.png">
-
 
 - [To-do-Lists](https://github.com/harryuan65/To-do-Lists)
 
