@@ -1,6 +1,6 @@
 # Hello there!
 
-The repositories/projects I am working on recently are as follows:
+The projects I am working on recently are as follows:
 
 - [ZunaTW](https://zuna.tw/)
 
