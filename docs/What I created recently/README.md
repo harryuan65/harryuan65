@@ -8,7 +8,7 @@ The projects I worked on recently are as follows:
 
    I created this project with a friend. It is an anonymous dormitory review platform that aims to help students at National Taipei University (our alma mater) get more information about the neighboring dormitories. It has collected 200+ organic user reviews. 
    
-   I implemented the back end with Rails API and deployed it on a Linode instance using Capistrano (as a practice).
+   I implemented the back end with Rails API and deployed it on a Linode instance using Capistrano.
 
 - [Blog](https://haoworld.dev)
 
