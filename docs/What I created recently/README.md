@@ -6,9 +6,9 @@ The repositories/projects I am working on recently are as follows:
 
     <img width="948" alt="截圖 2023-01-31 上午8 34 29" src="https://user-images.githubusercontent.com/33657734/215630592-52fecff2-324a-48e6-9355-446afbc39815.png">
 
-    This project was built by me and a friend. It is an anonymous dormitory review platform which aims to assist students in National Taipei University (our alma mater) to get more information about the neighboring dormitories. It has collected 200+ organic user reviews.
-    
-    I implemented the back end with Rails API and previously deployed on Heroku. Since its free tier has ended, and I couldn't find a proper way to pg_restore on Flyio, I decided to deploy it on a Linode instance using Capistrano (as a practice as well).
+   I created this project with a friend. It is an anonymous dormitory review platform that aims to help students at National Taipei University (our alma mater) get more information about the neighboring dormitories. It has collected 200+ organic user reviews. 
+   
+   I implemented the back end with Rails API and deployed it on a Linode instance using Capistrano (as a practice).
 
 - [Blog](https://haoworld.dev)
 
@@ -28,4 +28,4 @@ The repositories/projects I am working on recently are as follows:
     [React example](https://harryuan65.github.io/to-do-list-react/)
     <img width="823" alt="todo" src="https://user-images.githubusercontent.com/33657734/215636440-26998f68-2630-4b7f-a491-0183143d77ff.png">
 
-    I want to practice and try out technologies by creating the same a to-do list. It currently has rails, express for backend, and react for frontend.
+    I want to practice and try out technologies by creating the same to-do list. It currently has rails, express for the backend, and react for the frontend.
