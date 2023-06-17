@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Harry Yuan</h1>
-<h3 align="center">A poor guy suffering in Taiwan</h3>
+<h1 align="center">Harry Yuan</h1>
+<h3 align="center"></h3>
 
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
