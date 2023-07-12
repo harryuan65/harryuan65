@@ -1,83 +1,9 @@
-<h1 align="center">Harry Yuan</h1>
-<h3 align="center"></h3>
+<!-- 6bd4e3 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa32&fontColor=fff&fontSize=25&fontAlign=50&fontAlignY=30&height=140&section=header&text=Harry%20Yuan&&animation=fadeIn">
 
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-  /></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-      alt="rails"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harryuan65&hide_border=true&theme=tokyo-night">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=harryuan65&hide_border=true&count_private=true&title_color=a8b1d6&bg_color=00000000&text_color=6fa3fa" alt="harryuan65"/>
+    
+<img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryuan65&layout=compact&hide_border=true&title_color=a8b1d6&text_color=6fa3fa&bg_color=00000000" />
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=harryuan65&show_icons=true&locale=en&layout=compact"
-    alt="harryuan65"
-  />
-</p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harryuan65&show_icons=true&locale=en"
-    alt="harryuan65"
-  />
-</p>
+
